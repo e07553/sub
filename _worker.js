@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://cfxr.eu.org/getSub
+vless://f2b61de1-2c45-468a-9056-bfcbf3ac1bf4@cf.139.run:443?encryption=none&security=tls&sni=s.139.run&insecure=0&allowInsecure=0&type=ws&host=s.139.run&path=%2Fproxyip%3Dus.xiabibi.cf#1-cf.139.run
 `;
 
 let urls = [];
